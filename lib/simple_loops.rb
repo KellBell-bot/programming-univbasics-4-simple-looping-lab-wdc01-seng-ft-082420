@@ -1,6 +1,6 @@
 def loop_message_five_times(message)
   message = "Hello World."
-  puts message * 5
+  puts message
 end
 
 def loop_message_n_times
